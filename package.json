@@ -1,0 +1,14 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "discord.js v13 empty infrastructure",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "lunex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
